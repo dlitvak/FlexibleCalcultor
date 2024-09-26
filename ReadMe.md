@@ -1,8 +1,8 @@
-#Flexible Calculator
+# Flexible Calculator
 
 This project a simple, extensible calculator in Java 8 that supports multiple operations: ADD, SUBTRACT, MULTIPLY, and DIVIDE.
 
-##Design
+## Design
 
 While designing the app, I assumed that only the classes of the same type can be operated on.
 The project is using CalculatorFactory to instantiate Calculator of specific data type.
